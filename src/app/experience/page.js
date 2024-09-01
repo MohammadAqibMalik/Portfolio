@@ -53,7 +53,7 @@ export default function Experience() {
                     <ExperienceCard
                         date={`August 2022 - March 2024`}
                         skills={['React', 'Django', 'Redux', 'Storybook', 'D3', 'single-spa', 'mocha', 'enzyme', 'style-component', 'launchdarkly', 'AWS', 'Jira']}
-                        role={'Software Engineer | React | Django | Micro-Service'}
+                        role={'Full-Stack Engineer | React | Django | Micro-Service'}
                         projectName={'Elevate Security'}
                     >
                         <div className={'flex flex-col gap-2'}>
@@ -90,7 +90,7 @@ export default function Experience() {
                     <ExperienceCard
                         date={'January 2022 - July 2022'}
                         skills={['Next.js', 'Tailwind']}
-                        role={'Senior Front End Engineer | Next.Js | TailWind'}
+                        role={'Front-End Engineer | Next.Js | TailWind'}
                         projectName={'E-commerce SEO'}
                     >
                         <div className={'flex flex-col gap-2'}>
